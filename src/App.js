@@ -37,6 +37,7 @@ const App = () => {
 
         <Route exact path="/write" element={user ? <Write /> : <Register />} />
         <Route exact path="/post/:postid" element={<Single />} />
+        <Route exact path="*" element={<Home />} />
       </Routes>
       <Footer />
     </Router>
