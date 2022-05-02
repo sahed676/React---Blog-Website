@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React---Blog-Website/static/css/main.407c3ee2.css",
+    "main.js": "/React---Blog-Website/static/js/main.9120289b.js",
+    "static/media/AboutImage.jpg": "/React---Blog-Website/static/media/AboutImage.eea879c89114ce4d3a9f.jpg",
+    "static/media/background.jpg": "/React---Blog-Website/static/media/background.382b6400fd1a1563266c.jpg",
+    "static/media/postImage.jpg": "/React---Blog-Website/static/media/postImage.2470225eabd17f796f67.jpg",
+    "static/media/contactBg.jpg": "/React---Blog-Website/static/media/contactBg.c6a1f4cae4635169cd2c.jpg",
+    "static/media/backgroundtwo.jpg": "/React---Blog-Website/static/media/backgroundtwo.08a30fc4b320edb1dc89.jpg",
+    "static/media/HeaderImage.jpg": "/React---Blog-Website/static/media/HeaderImage.4ef96a7c5cea4d137dc5.jpg",
+    "static/media/NavImage.jpg": "/React---Blog-Website/static/media/NavImage.ac05a7c6f0d847ea45bc.jpg",
+    "index.html": "/React---Blog-Website/index.html",
+    "main.407c3ee2.css.map": "/React---Blog-Website/static/css/main.407c3ee2.css.map",
+    "main.9120289b.js.map": "/React---Blog-Website/static/js/main.9120289b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.407c3ee2.css",
+    "static/js/main.9120289b.js"
+  ]
+}
